@@ -1,0 +1,1 @@
+Probando .gitignore !dia00
